@@ -1,4 +1,4 @@
-# Golang_LeafServer_Study
+# Golang LeafServer Study
 
 # 下載並安裝
 
@@ -75,3 +75,9 @@ https://github.com/name5566/leaf/blob/master/TUTORIAL_ZH.md
 [Golang 游戏leaf系列(八) 输出错误日志stacktrace](https://www.jianshu.com/p/1d0a5c49ecf4)
 
 [Golang 游戏leaf系列(九) 官方issues摘录](https://www.jianshu.com/p/042e9b643d1b)
+
+[leaf 和cocos creator 游戏实战（一）使用protobuf完成通讯](https://blog.csdn.net/ouzhengai/article/details/81050692)
+
+[leaf 和cocos creator 游戏实战（二）注册与登陆](https://blog.csdn.net/ouzhengai/article/details/81836955)
+
+
